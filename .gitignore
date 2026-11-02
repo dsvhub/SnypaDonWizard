@@ -1,0 +1,16 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Build and packaging output
+dist/
+build/
+*.zip

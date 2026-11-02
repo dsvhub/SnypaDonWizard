@@ -1,0 +1,2 @@
+# SnypaDonWizard
+Kodi wizard
